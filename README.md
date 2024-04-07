@@ -9,10 +9,6 @@ Version:
 
 Date:   
     2021-04-26
-    
-Default:
-    PortNo:11400 hostname:zuma
-    username:rey password:123
 
 Instructions:
     Download the file
