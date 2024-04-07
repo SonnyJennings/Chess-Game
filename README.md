@@ -1,10 +1,9 @@
 Authors: 
-    Orion Serup (oserup@uci.edu)
-    Ian Poremba (iporemba@uci.edu)
-    Raymond Duong (duongr2@uci.edu)
-    Chris Rodriguez (chriar10@uci.edu)
-    Sunshine Jennings (smjennin@uci.edu)
-
+    Orion Serup
+    Ian Poremba
+    Raymond Duong
+    Chris Rodriguez
+    Sunshine Jennings
 Version:
     2.0 Alpha Prototype 
 
