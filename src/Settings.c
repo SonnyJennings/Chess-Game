@@ -1,9 +1,5 @@
 /*!
  * \file Settings.c
- * \author Orion Serup (oserup@uci.edu)
- * \author Ian Poremba (iporemba@uci.edu)
- * \author Raymond Duong (duongr2@uci.edu)
- * \author Chris Rodriguez (chriar10@uci.edu)
  * \author Sunshine Jennings (smjennin@uci.edu)
  * \brief Contains the implementation of the Settings Module of Ultimate Chess
  * \version 1.0
