@@ -1,9 +1,6 @@
-Authors: 
-    Orion Serup
-    Ian Poremba
-    Raymond Duong
-    Chris Rodriguez
+Authors
     Sunshine Jennings
+    
 Version:
     2.0 Alpha Prototype 
 
