@@ -1,9 +1,5 @@
 /*!
  * \file Board.h
- * \author Orion Serup (oserup@uci.edu)
- * \author Ian Poremba (iporemba@uci.edu)
- * \author Raymond Duong (duongr2@uci.edu)
- * \author Chris Rodriguez (chriar10@uci.edu)
  * \author Sunshine Jennings (smjennin@uci.edu)
  * \brief Contains the prototypes and custom types for the Board Module of Ultimate Chess
  * \version 1.0
